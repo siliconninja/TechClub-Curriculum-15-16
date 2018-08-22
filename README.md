@@ -42,14 +42,14 @@ Work towards completing a personal website or webapp using the Cloud9 IDE, or th
 
 # License
 
-CC-BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International) with exceptions to images used within the powerpoint slides (see individual README.md files inside each folder for image credits and their respective licenses. All licenses for the image credits, etc are the same if you choose to redistribute them from my repository (i.e. if an image's original license that is within the powerpoint is CC0, you may redistribute the image on your own repository from the powerpoint **under the same license**, CC0).
+Until 8/22/18, this project was licensed under CC-BY-NC-SA 4.0. To make this project more accessible to the open source community and to encourage sharing, I've decided to relicense it under CC-BY 4.0. You may relicense your existing work and use it under CC-BY 4.0 (or another license, as long as your work complies with the terms of the CC-BY 4.0 license) if you want to. Please see the LICENSE file for the full terms of the license first.
 
-Here's a short summary of the CC BY-NC-SA 4.0 International License, but it is **not a replacement** for the [actual license](LICENSE):
+CC-BY 4.0 (Creative Commons Attribution 4.0 International) with exceptions to images used within the powerpoint slides (see individual README.md files inside each folder for image credits and their respective licenses. All licenses for the image credits, etc are the same if you choose to redistribute them from my repository (i.e. if an image's original license that is within the powerpoint is CC0, you may redistribute the image on your own repository from the powerpoint **under the same license**, CC0). This is to maintain compatibility with the original license(s).
 
-  - Credit me if you are publishing your work publicly or within an organization.
-    - (e.g. Uses Tech Club Curriculum 2015-2016 by SiliconNinja, licensed under CC-BY-NC-SA 4.0)
+Here's a short summary of the CC-BY 4.0 International License, but it is **not a replacement** for the [actual license](LICENSE):
+
+  - Please credit me if you are publishing your work.
+    - (e.g. Uses Tech Club Curriculum 2015-2016 by SiliconNinja, originally licensed under CC-BY 4.0)
   
-  - For **personal use**, credit is not required.
-  
-  - Commercial use is prohibited.
+  - For **personal use** (your work based off of this is not redistributed), credit is not required.
 
